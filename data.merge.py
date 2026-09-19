@@ -1,6 +1,4 @@
 
-    "Salary": [30000, 25000, 45000]
-})
 
 performance = pd.DataFrame({
     "ID": [1, 2, 3],
