@@ -15,5 +15,4 @@ table=pd.DataFrame(data)
 
 
     
-print(table[(table["marks"]) > 90 ])
-print(table.dropna())
+print(table.select_dtypes)
