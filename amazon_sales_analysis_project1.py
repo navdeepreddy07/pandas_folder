@@ -71,3 +71,12 @@ print((len(l)/len(df))*100)
 # =========================
 # Business Insights
 # =========================
+
+# April recorded the highest Amazon-fulfilled sales among the analyzed months.
+
+#Insight 4 — State Performance
+
+# Maharashtra recorded the highest quantity of products sold among the analyzed states.
+
+# Final Insight — Product Performance
+# Sales and quantity varied across SKUs, with some products contributing significantly more than others.
